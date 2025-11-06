@@ -1,0 +1,25 @@
+# Compiler generated files
+build/
+Debug/
+Release/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# object files and executables
+wordle.exe
+*.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# .vscode/
+
+# Temporary files
+*.tmp
+*.log
