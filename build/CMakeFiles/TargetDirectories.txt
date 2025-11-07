@@ -1,3 +1,0 @@
-E:/User/Daniel Torres/VSCodeWorkspace/ProyectosC/Wordle/build/CMakeFiles/wordle.dir
-E:/User/Daniel Torres/VSCodeWorkspace/ProyectosC/Wordle/build/CMakeFiles/edit_cache.dir
-E:/User/Daniel Torres/VSCodeWorkspace/ProyectosC/Wordle/build/CMakeFiles/rebuild_cache.dir
